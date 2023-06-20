@@ -1,3 +1,3 @@
 # Human-Activity-Recognition
 
-Deep Learning Approach.
+Machine Learnign & Deep Learning Approach.
