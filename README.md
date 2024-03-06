@@ -1,3 +1,4 @@
 # Human-Activity-Recognition
 
 Machine Learnign & Deep Learning Approach.
+![image](https://github.com/Monirul-Islam-Mahmud/Human-Activity-Recognition/assets/59494761/10e88730-cb7d-4167-b5f0-9de4b22bf9c6)
